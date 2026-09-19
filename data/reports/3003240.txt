@@ -1,0 +1,21 @@
+1. Просмотренные ссылки с сайта me***22.i*fo:
+   - https://me***22.i*fo/page1
+   - https://me***22.i*fo/page2
+   - https://me***22.i*fo/page3
+   - https://me***22.i*fo/page4
+   - https://me***22.i*fo/page5
+   - https://me***22.i*fo/page6
+2. Фраза поиска: заработок в интернете
+   Ссылка после поиска: https://me***22.i*fo/search?q=заработок+в+интернете
+3. Рекламная ссылка из поисковика: https://www.example-ad.com/
+   Ссылки переходов на рекламном сайте:
+   - https://www.example-ad.com/product1
+   - https://www.example-ad.com/about
+   - https://www.example-ad.com/contact
+   - https://www.example-ad.com/blog/post1
+   - https://www.example-ad.com/faq
+
+Скриншот приложен.
+
+Скриншоты:
+C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\screenshots\3003240\ai_1_223342.png

@@ -1,0 +1,66 @@
+{
+  "task_id": "3057151",
+  "title": "Подписаться на группу в Вконтакте",
+  "timestamp": "2026-09-16T22:25:31",
+  "description": "1. Подписатся на группу в Вконтакте. Все",
+  "report_requirements": "Указать скрин или фото подписки на группу в ВК https://m.vk.ru/cosmos_pie",
+  "category": "visit_urls",
+  "platforms": [
+    "vk"
+  ],
+  "recon_steps": [
+    "Перейти по ссылке на группу ВКонтакте: https://m.vk.ru/cosmos_pie",
+    "Нажать кнопку 'Подписаться' или 'Вступить в группу'",
+    "Сделать скриншот или фото подтверждающее подписку"
+  ],
+  "actions": [
+    "Посетить https://m.vk.ru/cosmos_pie → URL: https://m.vk.ru/cosmos_pie, скрин: True"
+  ],
+  "collected_data": {
+    "visited_urls": [
+      "https://m.vk.ru/cosmos_pie"
+    ]
+  },
+  "execution_payload": {
+    "task_id": "3057151",
+    "title": "Подписаться на группу в Вконтакте",
+    "executor": {
+      "telegram": "@your_username",
+      "email": "your@email.com",
+      "account_id": "",
+      "registration_date": ""
+    },
+    "sessions": {
+      "VK": "авторизован"
+    },
+    "required_platforms": [
+      "vk"
+    ],
+    "report_fields": [
+      "Скриншот или фото, подтверждающее подписку на группу"
+    ],
+    "visited_urls": [
+      "https://m.vk.ru/cosmos_pie"
+    ],
+    "collected_data": {
+      "visited_urls": [
+        "https://m.vk.ru/cosmos_pie"
+      ]
+    },
+    "screenshots": [
+      "C:\\Users\\armian\\Desktop\\Works\\Freelance\\auto_SEOsprint\\data\\screenshots\\3057151\\visit_1_222510.png"
+    ],
+    "screenshots_attached_to_form": true,
+    "screenshots_files_exist": true,
+    "action_log": [
+      "Посетить https://m.vk.ru/cosmos_pie → URL: https://m.vk.ru/cosmos_pie, скрин: True"
+    ],
+    "extra_notes": ""
+  },
+  "report_text": "Скриншот или фото, подтверждающее подписку на группу: Приложен.",
+  "screenshot_paths": [
+    "C:\\Users\\armian\\Desktop\\Works\\Freelance\\auto_SEOsprint\\data\\screenshots\\3057151\\visit_1_222510.png"
+  ],
+  "submitted": true,
+  "message": "Отчёт отправлен"
+}

@@ -1,0 +1,24 @@
+{
+  "task_id": "3058582",
+  "title": "The work is very valuable",
+  "kind": "fix",
+  "timestamp": "2026-09-16T22:24:04",
+  "submitted_report": "",
+  "rejection_reason": "",
+  "fix_required": "",
+  "execution_journal": null,
+  "tz_description": "The task is very easy and valuable. 1. Click the link below and join the bot. https://t.me/AiGoldMasterbot?start=ref_WC-8142136 2. Join the channel below. https://t.me/goldai_community 3. Go to the \"Open Web App\" section and activate TRON mining by inviting a referral. Note: You can invite 5 members, claim 0.1 AIG (worth $430) from the \"Tasks\" section, (don't miss out on this valuable airdrop).",
+  "tz_report_requirements": "1. Click on the \"My Profile\" section and send a screenshot. 2. Screenshot after activating TRON mining. 3. Screenshot of channel membership",
+  "ai_summary": "Исполнитель не предоставил ни одного скриншота, что является грубым нарушением требований к отчёту. Замечание модератора абсолютно обосновано.",
+  "ai_issues": [
+    "Отсутствие всех требуемых скриншотов в отчёте.",
+    "Невозможность проверить выполнение задания без визуальных доказательств."
+  ],
+  "ai_recommendations": [
+    "Внимательно прочитать требования к отчёту перед отправкой.",
+    "Сделать и прикрепить все три запрошенных скриншота.",
+    "Убедиться, что скриншоты соответствуют описанию и показывают выполнение каждого пункта."
+  ],
+  "ai_report_template": "1. [Скриншот раздела 'My Profile']\n2. [Скриншот после активации майнинга TRON]\n3. [Скриншот подтверждающий членство в канале]",
+  "apply_instructions": "При повторном выполнении задания необходимо прикрепить три скриншота: первый - раздел 'My Profile' в боте, второй - подтверждение активации TRON майнинга (возможно, сообщение бота или статус в приложении), третий - скриншот, показывающий, что вы являетесь участником канала https://t.me/goldai_community. Убедитесь, что скриншоты четкие и на них видны необходимые элементы."
+}

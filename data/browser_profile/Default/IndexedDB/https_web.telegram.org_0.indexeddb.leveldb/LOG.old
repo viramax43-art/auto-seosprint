@@ -1,0 +1,10 @@
+2026/09/13-17:46:28.843 c34 Creating DB C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\browser_profile\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2026/09/13-17:46:28.857 c34 Reusing MANIFEST C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\browser_profile\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/13-17:46:29.061 617c Level-0 table #5: started
+2026/09/13-17:46:29.067 617c Level-0 table #5: 22621 bytes OK
+2026/09/13-17:46:29.072 617c Delete type=0 #3
+2026/09/13-17:46:29.072 617c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/13-17:48:54.719 b3ac Level-0 table #7: started
+2026/09/13-17:48:54.729 b3ac Level-0 table #7: 27140 bytes OK
+2026/09/13-17:48:54.734 b3ac Delete type=0 #4
+2026/09/13-17:48:54.734 b3ac Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

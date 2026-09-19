@@ -1,0 +1,71 @@
+{
+  "task_id": "3057955",
+  "title": "Подпишись на Telegram канал К-03-07",
+  "timestamp": "2026-09-16T22:33:08",
+  "description": "1. Подпишись на Telegram канал @commercialrealestatemoscow и ПОСЧИТАЙ КОЛИЧЕСТВО ПОСТОВ С 03 АВГУСТА ПО 07 СЕНТЯБРЯ 2026 ГОДА ВКЛЮЧИТЕЛЬНО . 2. Пролистай посты С 03 АВГУСТА ПО 07 СЕНТЯБРЯ 2026 ГОДА ВКЛЮЧИТЕЛЬНО ( включительно 07 сентября – это значит, что посты за 07 сентября тоже нужно считать ), посчитай их количество и пришли СУММУ ПОСТОВ ( числом ) в отчёте вместе со своим ником в Телеграм. 3. Поставь любые реакции к постам (несколько, на твой выбор). Вся работа займёт 2-3 минуты. СКРИНШОТЫ ПРИСЫЛАТЬ НЕ НУЖНО , только свой ник в Телеграм и сумму постов (числом)! Все отчёты проверяются. Если на момент проверки отчёта вашего ника нет в списке подписчиков, то задание вы не выполнили!",
+  "report_requirements": "1. СУММУ ПОСТОВ ( числом ) в канале С 03 АВГУСТА ПО 07 СЕНТЯБРЯ 2026 ГОДА ВКЛЮЧИТЕЛЬНО ( включительно 07 сентября – это значит, что посты за 07 сентября тоже нужно считать ) 2. Свой ник в Телеграм, который начинается с @",
+  "category": "telegram",
+  "platforms": [
+    "telegram"
+  ],
+  "recon_steps": [
+    "Перейти по ссылке на Telegram канал @commercialrealestatemoscow.",
+    "Подписаться на канал.",
+    "Пролистать посты в канале с 03 августа по 07 сентября 2026 года включительно и посчитать их количество.",
+    "Поставить любые реакции к нескольким постам (на выбор).",
+    "В отчете указать сумму постов (числом) и свой ник в Telegram, начинающийся с @."
+  ],
+  "actions": [],
+  "collected_data": {
+    "visited_urls": [
+      "https://t.me/commercialrealestatemoscow"
+    ],
+    "platforms": [
+      "telegram"
+    ]
+  },
+  "execution_payload": {
+    "task_id": "3057955",
+    "title": "Подпишись на Telegram канал К-03-07",
+    "executor": {
+      "telegram": "@your_username",
+      "email": "your@email.com",
+      "account_id": "",
+      "registration_date": ""
+    },
+    "sessions": {
+      "Telegram": "авторизован"
+    },
+    "required_platforms": [
+      "telegram"
+    ],
+    "report_fields": [
+      "СУММУ ПОСТОВ ( числом ) в канале С 03 АВГУСТА ПО 07 СЕНТЯБРЯ 2026 ГОДА ВКЛЮЧИТЕЛЬНО",
+      "Свой ник в Телеграм, который начинается с @"
+    ],
+    "visited_urls": [
+      "https://t.me/commercialrealestatemoscow"
+    ],
+    "collected_data": {
+      "visited_urls": [
+        "https://t.me/commercialrealestatemoscow"
+      ],
+      "platforms": [
+        "telegram"
+      ]
+    },
+    "screenshots": [
+      "C:\\Users\\armian\\Desktop\\Works\\Freelance\\auto_SEOsprint\\data\\screenshots\\3057955\\social_1_223248.png"
+    ],
+    "screenshots_attached_to_form": true,
+    "screenshots_files_exist": true,
+    "action_log": [],
+    "extra_notes": ""
+  },
+  "report_text": "1. 0\n2. @your_username",
+  "screenshot_paths": [
+    "C:\\Users\\armian\\Desktop\\Works\\Freelance\\auto_SEOsprint\\data\\screenshots\\3057955\\social_1_223248.png"
+  ],
+  "submitted": true,
+  "message": "Отчёт отправлен"
+}

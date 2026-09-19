@@ -1,0 +1,24 @@
+{
+  "task_id": "3058455",
+  "title": "Download The App Meto live 02",
+  "kind": "fail",
+  "timestamp": "2026-09-16T22:23:53",
+  "submitted_report": "",
+  "rejection_reason": "",
+  "fix_required": "",
+  "execution_journal": null,
+  "tz_description": "Very simple task Download App Register with Google After login Go In Your Profile & Complete Face Verification App Size 107MB SOMETHING Task Complete ✅ Чтобы выполнить задание, вы переходили по этой ссылке https://m.livetalkworld.com/invite/20174…",
+  "tz_report_requirements": "Important Notice Face Verification Is Important Take a screenshot of face verification Page Thanks https://kommodo.ai/i/FrKc5ntbrxIeSDRanb2Z",
+  "ai_summary": "Исполнитель не предоставил скриншот, подтверждающий выполнение ключевого требования задания – прохождение верификации лица. Отчет не соответствует требованиям ТЗ.",
+  "ai_issues": [
+    "Отсутствует скриншот верификации лица, который является обязательным требованием к отчету.",
+    "Отчет исполнителя пуст, что не позволяет оценить выполнение задания."
+  ],
+  "ai_recommendations": [
+    "Внимательно читайте требования к отчету перед его отправкой.",
+    "Всегда прикрепляйте необходимые скриншоты, подтверждающие выполнение ключевых этапов задания.",
+    "Убедитесь, что скриншот четкий и на нем виден процесс или результат верификации лица."
+  ],
+  "ai_report_template": "Здравствуйте! Прикрепляю скриншот, подтверждающий прохождение верификации лица в приложении Meto live. [Здесь будет ссылка на скриншот, например, загруженный на kommodo.ai]",
+  "apply_instructions": "При повторном выполнении задания, после прохождения верификации лица, сделайте скриншот этой страницы. Загрузите скриншот на любой хостинг изображений (например, kommodo.ai, imgur.com, prnt.sc) и вставьте ссылку на него в поле отчета. Убедитесь, что скриншот четкий и на нем видно, что верификация пройдена."
+}

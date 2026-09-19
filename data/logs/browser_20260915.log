@@ -1,0 +1,795 @@
+23:39:33 | DEBUG | Лог-файл: C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\logs\browser_20260915.log
+23:39:34 | INFO | BROWSER start | headless=False slow_mo=500
+23:39:34 | DEBUG | COOKIES loaded from C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\cookies.json (98)
+23:39:34 | DEBUG | keeper | logging attached
+23:39:34 | INFO | BROWSER keeper reused | about:blank
+23:39:34 | INFO | CONTEXT after start | open=1/1 | urls=['about:blank']
+23:39:34 | DEBUG | page[ @ about:blank] | logging attached
+23:39:34 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:39:34 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:39:34 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/earn
+23:39:35 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/earn → https://seosprint.net/earn
+23:39:35 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/earn
+23:39:35 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:39:35 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:39:38 | INFO | PAGE CLOSE [is_logged_in] | https://seosprint.net/earn
+23:39:38 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:39:38 | INFO | CONTEXT after close (is_logged_in) | open=1/1 | urls=['about:blank']
+23:39:38 | DEBUG | page[ @ about:blank] | logging attached
+23:39:38 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:39:38 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:39:38 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/earn-task/1 (from about:blank)
+23:39:38 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/earn-task/1
+23:39:38 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/earn-task/1 → https://seosprint.net/earn-task/1
+23:39:38 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/earn-task/1
+23:39:39 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:39:39 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:39:39 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/earn-task/1
+23:39:42 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/earn-task/1
+23:39:42 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:39:42 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:40:14 | INFO | === TASK T-3058260 START ===
+23:40:14 | INFO | READ TASK T-3058260 | opening /read-task/3058260
+23:40:14 | INFO | CONTEXT before read_task T-3058260 | open=1/1 | urls=['about:blank']
+23:40:14 | DEBUG | page[ @ about:blank] | logging attached
+23:40:14 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:40:14 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:40:14 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058260 (from about:blank)
+23:40:14 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058260
+23:40:15 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058260 → https://seosprint.net/read-task/3058260
+23:40:15 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058260
+23:40:15 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:40:15 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:40:15 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058260
+23:40:17 | INFO | READ TASK T-3058260 | url=https://seosprint.net/read-task/3058260 | desc_len=210
+23:40:20 | DEBUG | page[ @ about:blank] | logging attached
+23:40:20 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:40:20 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058260', 'about:blank']
+23:40:20 | DEBUG | visit-1 | logging attached
+23:40:20 | INFO | VISIT [1/1] target=https://vk.ru/pokushat_to_63
+23:40:20 | INFO | page[ @ about:blank] | GOTO start: https://vk.ru/pokushat_to_63 (from about:blank)
+23:40:20 | DEBUG | visit-1 | REQUEST nav GET https://vk.ru/pokushat_to_63
+23:40:21 | INFO | visit-1 | RESPONSE nav 200 https://vk.ru/pokushat_to_63 → https://vk.ru/pokushat_to_63
+23:40:21 | INFO | visit-1 | NAVIGATED → https://vk.ru/pokushat_to_63
+23:40:21 | ERROR | visit-1 | PAGE ERROR: langChunkLoadingGlobal is not defined
+23:40:21 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://vk.ru/pokushat_to_63
+23:40:22 | DEBUG | visit-1 | console.error: .reset in derived store is deprecated, use .reset in store created via createStore instead
+23:40:22 | INFO | visit-1 | NAVIGATED → https://vk.ru/pokushat_to_63
+23:40:23 | DEBUG | visit-1 | console.warning: adhoc tasks must be groupable
+23:40:24 | INFO | VISIT [1/1] landed=https://vk.ru/pokushat_to_63
+23:40:25 | INFO | VISIT close work tab | https://vk.ru/pokushat_to_63
+23:40:25 | INFO | visit-1 | PAGE CLOSED
+23:40:25 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058260
+23:40:25 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:40:26 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:40:26 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:40:26 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:40:26 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:40:26 | INFO | TAKE TASK T-3058260 | start
+23:40:26 | INFO | READ TASK T-3058260 | opening /read-task/3058260
+23:40:26 | INFO | CONTEXT before read_task T-3058260 | open=1/1 | urls=['about:blank']
+23:40:26 | DEBUG | page[ @ about:blank] | logging attached
+23:40:26 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:40:26 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:40:26 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058260 (from about:blank)
+23:40:26 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058260
+23:40:26 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058260 → https://seosprint.net/read-task/3058260
+23:40:26 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058260
+23:40:27 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:40:27 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:40:27 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058260
+23:40:28 | INFO | READ TASK T-3058260 | url=https://seosprint.net/read-task/3058260 | desc_len=210
+23:40:38 | WARNING | TAKE TASK T-3058260 | start controls wait timeout
+23:40:38 | INFO | page[Задание @ https://seosprint.net/read-task/3058260] | CLICK Начать выполнение T-3058260 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://vk.ru/pokushat_to_63' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058260
+23:40:42 | INFO | page[Задание @ https://seosprint.net/read-task/3058260] | CLICK Начать выполнение T-3058260 done | after=https://seosprint.net/read-task/3058260
+23:40:42 | INFO | TAKE TASK T-3058260 | success, report form visible
+23:40:42 | INFO | CLOSE EXTRA T-3058260 | keep=https://seosprint.net/read-task/3058260 pages_before=3
+23:40:42 | INFO | PAGE CLOSE [close_extra T-3058260] | https://vk.ru/pokushat_to_63
+23:40:42 | INFO | CONTEXT after close (close_extra T-3058260) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058260']
+23:40:42 | INFO | CONTEXT after close_extra T-3058260 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058260']
+23:40:42 | INFO | PREPARE REPORT T-3058260 | url=https://seosprint.net/read-task/3058260
+23:40:42 | INFO | SUBMIT T-3058260 | start | report_len=29 screenshots=1 url=https://seosprint.net/read-task/3058260
+23:40:43 | INFO | SUBMIT T-3058260 | uploaded 0 screenshots
+23:40:44 | INFO | page[Задание @ https://seosprint.net/read-task/3058260] | FORM submit attempt formSubmitExt/formSubmit
+23:40:44 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058260
+23:40:45 | INFO | SUBMIT T-3058260 | result success=True msg=Отчёт отправлен
+23:40:45 | INFO | === TASK T-3058260 END | taken=True executed=True submitted=True ===
+23:40:45 | INFO | PAGE CLOSE [finally T-3058260] | https://seosprint.net/read-task/3058260
+23:40:45 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:40:45 | INFO | CONTEXT after close (finally T-3058260) | open=1/1 | urls=['about:blank']
+23:40:45 | INFO | === TASK T-3058348 START ===
+23:40:45 | INFO | READ TASK T-3058348 | opening /read-task/3058348
+23:40:45 | INFO | CONTEXT before read_task T-3058348 | open=1/1 | urls=['about:blank']
+23:40:45 | DEBUG | page[ @ about:blank] | logging attached
+23:40:45 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:40:45 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:40:45 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058348 (from about:blank)
+23:40:45 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058348
+23:40:45 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058348 → https://seosprint.net/read-task/3058348
+23:40:45 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058348
+23:40:46 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:40:46 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:40:46 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058348
+23:40:47 | INFO | READ TASK T-3058348 | url=https://seosprint.net/read-task/3058348 | desc_len=377
+23:40:52 | DEBUG | page[ @ about:blank] | logging attached
+23:40:52 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:40:52 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058348', 'about:blank']
+23:40:52 | DEBUG | visit-1 | logging attached
+23:40:52 | INFO | VISIT [1/1] target=https://long-voyage.com/?i=686790
+23:40:52 | INFO | page[ @ about:blank] | GOTO start: https://long-voyage.com/?i=686790 (from about:blank)
+23:40:52 | DEBUG | visit-1 | REQUEST nav GET https://long-voyage.com/?i=686790
+23:40:52 | INFO | visit-1 | RESPONSE nav 200 https://long-voyage.com/?i=686790 → https://long-voyage.com/?i=686790
+23:40:52 | INFO | visit-1 | NAVIGATED → https://long-voyage.com/?i=686790
+23:40:52 | DEBUG | visit-1 | REQUEST nav GET https://authnewauth.com/?i=686790
+23:40:53 | DEBUG | visit-1 | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:40:53 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://long-voyage.com/?i=686790
+23:40:53 | INFO | visit-1 | RESPONSE nav 302 https://authnewauth.com/?i=686790 → https://authnewauth.com/?i=686790
+23:40:53 | INFO | visit-1 | REDIRECT → https://hotskins27.ai/?refredirect=686790
+23:40:53 | DEBUG | visit-1 | REQUEST nav GET https://hotskins27.ai/?refredirect=686790
+23:40:54 | INFO | visit-1 | RESPONSE nav 200 https://hotskins27.ai/?refredirect=686790 → https://hotskins27.ai/?refredirect=686790
+23:40:54 | INFO | visit-1 | NAVIGATED → https://hotskins27.ai/?refredirect=686790
+23:40:54 | DEBUG | visit-1 | console.warning: The key "name" is not recognized and ignored.
+23:40:54 | DEBUG | visit-1 | console.warning: The key "content" is not recognized and ignored.
+23:40:54 | DEBUG | visit-1 | console.warning: The key "device-width" is not recognized and ignored.
+23:40:54 | INFO | visit-1 | NAVIGATED → https://hotskins27.ai/?refredirect=686790
+23:40:54 | INFO | visit-1 | NAVIGATED → https://hotskins27.ai/?refredirect=686790
+23:40:55 | INFO | visit-1 | NAVIGATED → https://hotskins27.ai/?refredirect=686790
+23:40:56 | INFO | VISIT [1/1] landed=https://hotskins27.ai/?refredirect=686790
+23:40:57 | INFO | VISIT close work tab | https://hotskins27.ai/?refredirect=686790
+23:40:57 | INFO | visit-1 | NAVIGATED → https://hotskins27.ai/?refredirect=686790
+23:40:57 | INFO | visit-1 | PAGE CLOSED
+23:41:05 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058348
+23:41:05 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:05 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:05 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:41:05 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:05 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:41:05 | INFO | TAKE TASK T-3058348 | start
+23:41:05 | INFO | READ TASK T-3058348 | opening /read-task/3058348
+23:41:05 | INFO | CONTEXT before read_task T-3058348 | open=1/1 | urls=['about:blank']
+23:41:05 | DEBUG | page[ @ about:blank] | logging attached
+23:41:05 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:41:05 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:05 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058348 (from about:blank)
+23:41:05 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058348
+23:41:06 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058348 → https://seosprint.net/read-task/3058348
+23:41:06 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058348
+23:41:06 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:41:06 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:41:06 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058348
+23:41:08 | INFO | READ TASK T-3058348 | url=https://seosprint.net/read-task/3058348 | desc_len=377
+23:41:18 | WARNING | TAKE TASK T-3058348 | start controls wait timeout
+23:41:18 | INFO | page[Задание @ https://seosprint.net/read-task/3058348] | CLICK Начать выполнение T-3058348 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://long-voyage.com/?i=686790' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058348
+23:41:21 | INFO | page[Задание @ https://seosprint.net/read-task/3058348] | CLICK Начать выполнение T-3058348 done | after=https://seosprint.net/read-task/3058348
+23:41:21 | INFO | TAKE TASK T-3058348 | success, report form visible
+23:41:21 | INFO | CLOSE EXTRA T-3058348 | keep=https://seosprint.net/read-task/3058348 pages_before=3
+23:41:21 | INFO | PAGE CLOSE [close_extra T-3058348] | https://hotskins27.ai/?refredirect=686790
+23:41:21 | INFO | CONTEXT after close (close_extra T-3058348) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058348']
+23:41:21 | INFO | CONTEXT after close_extra T-3058348 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058348']
+23:41:21 | INFO | PREPARE REPORT T-3058348 | url=https://seosprint.net/read-task/3058348
+23:41:21 | INFO | SUBMIT T-3058348 | start | report_len=58 screenshots=1 url=https://seosprint.net/read-task/3058348
+23:41:23 | INFO | SUBMIT T-3058348 | uploaded 0 screenshots
+23:41:23 | INFO | page[Задание @ https://seosprint.net/read-task/3058348] | FORM submit attempt formSubmitExt/formSubmit
+23:41:23 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058348
+23:41:24 | INFO | SUBMIT T-3058348 | result success=True msg=Отчёт отправлен
+23:41:24 | INFO | === TASK T-3058348 END | taken=True executed=True submitted=True ===
+23:41:24 | INFO | PAGE CLOSE [finally T-3058348] | https://seosprint.net/read-task/3058348
+23:41:24 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:24 | INFO | CONTEXT after close (finally T-3058348) | open=1/1 | urls=['about:blank']
+23:41:24 | INFO | === TASK T-3057590 START ===
+23:41:24 | INFO | READ TASK T-3057590 | opening /read-task/3057590
+23:41:24 | INFO | CONTEXT before read_task T-3057590 | open=1/1 | urls=['about:blank']
+23:41:24 | DEBUG | page[ @ about:blank] | logging attached
+23:41:24 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:41:24 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:24 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3057590 (from about:blank)
+23:41:24 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3057590
+23:41:24 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3057590 → https://seosprint.net/read-task/3057590
+23:41:24 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3057590
+23:41:25 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:41:25 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:41:25 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3057590
+23:41:27 | INFO | READ TASK T-3057590 | url=https://seosprint.net/read-task/3057590 | desc_len=243
+23:41:31 | INFO | PAGE CLOSE [finally T-3057590] | https://seosprint.net/read-task/3057590
+23:41:31 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:32 | INFO | CONTEXT after close (finally T-3057590) | open=1/1 | urls=['about:blank']
+23:41:32 | INFO | === TASK T-3058582 START ===
+23:41:32 | INFO | READ TASK T-3058582 | opening /read-task/3058582
+23:41:32 | INFO | CONTEXT before read_task T-3058582 | open=1/1 | urls=['about:blank']
+23:41:32 | DEBUG | page[ @ about:blank] | logging attached
+23:41:32 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:41:32 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:32 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058582 (from about:blank)
+23:41:32 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058582
+23:41:32 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058582 → https://seosprint.net/read-task/3058582
+23:41:32 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058582
+23:41:33 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058582
+23:41:34 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:41:34 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:41:34 | INFO | READ TASK T-3058582 | url=https://seosprint.net/read-task/3058582 | desc_len=397
+23:41:39 | DEBUG | page[ @ about:blank] | logging attached
+23:41:39 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:41:39 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058582', 'about:blank']
+23:41:39 | DEBUG | visit-1 | logging attached
+23:41:39 | INFO | VISIT [1/2] target=https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:39 | INFO | page[ @ about:blank] | GOTO start: https://t.me/AiGoldMasterbot?start=ref_WC-8142136 (from about:blank)
+23:41:39 | DEBUG | visit-1 | REQUEST nav GET https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:40 | INFO | visit-1 | RESPONSE nav 200 https://t.me/AiGoldMasterbot?start=ref_WC-8142136 → https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:40 | INFO | visit-1 | NAVIGATED → https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:40 | DEBUG | visit-1 | REQUEST nav GET tg://resolve?domain=AiGoldMasterbot&start=ref_WC-8142136
+23:41:41 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:44 | INFO | VISIT [1/2] landed=https://t.me/AiGoldMasterbot?start=ref_WC-8142136
+23:41:45 | INFO | VISIT [2/2] target=https://t.me/goldai_community
+23:41:45 | INFO | page[Telegram: Launch @AiGoldMasterbot @ https://t.me/AiGoldMasterbot?start=ref_WC-8142136] | GOTO start: https://t.me/goldai_community (from https://t.me/AiGoldMasterbot?start=ref_WC-8142136)
+23:41:45 | DEBUG | visit-1 | REQUEST nav GET https://t.me/goldai_community
+23:41:45 | INFO | visit-1 | RESPONSE nav 200 https://t.me/goldai_community → https://t.me/goldai_community
+23:41:45 | INFO | visit-1 | NAVIGATED → https://t.me/goldai_community
+23:41:45 | DEBUG | visit-1 | REQUEST nav GET tg://resolve?domain=goldai_community
+23:41:45 | DEBUG | visit-1 | console.error: Not allowed to launch 'tg://resolve?domain=goldai_community' because a user gesture is required.
+23:41:45 | INFO | page[Telegram: Launch @AiGoldMasterbot @ https://t.me/AiGoldMasterbot?start=ref_WC-8142136] | GOTO done: status=200 final=https://t.me/goldai_community
+23:41:48 | INFO | VISIT [2/2] landed=https://t.me/goldai_community
+23:41:49 | INFO | VISIT close work tab | https://t.me/goldai_community
+23:41:49 | INFO | visit-1 | PAGE CLOSED
+23:41:49 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058582
+23:41:49 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:50 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:50 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:41:50 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:41:50 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:41:50 | INFO | TAKE TASK T-3058582 | start
+23:41:50 | INFO | READ TASK T-3058582 | opening /read-task/3058582
+23:41:50 | INFO | CONTEXT before read_task T-3058582 | open=1/1 | urls=['about:blank']
+23:41:50 | DEBUG | page[ @ about:blank] | logging attached
+23:41:50 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:41:50 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:41:50 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058582 (from about:blank)
+23:41:50 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058582
+23:41:50 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058582 → https://seosprint.net/read-task/3058582
+23:41:50 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058582
+23:41:51 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:41:51 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:41:51 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058582
+23:41:52 | INFO | READ TASK T-3058582 | url=https://seosprint.net/read-task/3058582 | desc_len=397
+23:42:02 | WARNING | TAKE TASK T-3058582 | start controls wait timeout
+23:42:02 | INFO | page[Задание @ https://seosprint.net/read-task/3058582] | FORM formSubmit #task-use
+23:42:05 | INFO | page[Задание @ https://seosprint.net/read-task/3058582] | CLICK formSubmit T-3058582 done | after=https://seosprint.net/read-task/3058582
+23:42:05 | INFO | TAKE TASK T-3058582 | success, report form visible
+23:42:05 | INFO | CLOSE EXTRA T-3058582 | keep=https://seosprint.net/read-task/3058582 pages_before=2
+23:42:05 | INFO | CONTEXT after close_extra T-3058582 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058582']
+23:42:05 | INFO | PREPARE REPORT T-3058582 | url=https://seosprint.net/read-task/3058582
+23:42:05 | INFO | SUBMIT T-3058582 | start | report_len=29 screenshots=2 url=https://seosprint.net/read-task/3058582
+23:42:07 | INFO | SUBMIT T-3058582 | uploaded 0 screenshots
+23:42:07 | INFO | page[Задание @ https://seosprint.net/read-task/3058582] | FORM submit attempt formSubmitExt/formSubmit
+23:42:07 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058582
+23:42:08 | INFO | SUBMIT T-3058582 | result success=True msg=Отчёт отправлен
+23:42:08 | INFO | === TASK T-3058582 END | taken=True executed=True submitted=True ===
+23:42:08 | INFO | PAGE CLOSE [finally T-3058582] | https://seosprint.net/read-task/3058582
+23:42:08 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:42:08 | INFO | CONTEXT after close (finally T-3058582) | open=1/1 | urls=['about:blank']
+23:42:08 | INFO | === TASK T-3058460 START ===
+23:42:08 | INFO | READ TASK T-3058460 | opening /read-task/3058460
+23:42:08 | INFO | CONTEXT before read_task T-3058460 | open=1/1 | urls=['about:blank']
+23:42:08 | DEBUG | page[ @ about:blank] | logging attached
+23:42:08 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:42:08 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:42:08 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058460 (from about:blank)
+23:42:08 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058460
+23:42:08 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058460 → https://seosprint.net/read-task/3058460
+23:42:08 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058460
+23:42:09 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:42:09 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:42:09 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058460
+23:42:10 | INFO | READ TASK T-3058460 | url=https://seosprint.net/read-task/3058460 | desc_len=883
+23:42:14 | DEBUG | page[ @ about:blank] | logging attached
+23:42:14 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:42:14 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058460', 'about:blank']
+23:42:22 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058460
+23:42:22 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:42:22 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:42:22 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:42:22 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:42:22 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:42:22 | INFO | TAKE TASK T-3058460 | start
+23:42:22 | INFO | READ TASK T-3058460 | opening /read-task/3058460
+23:42:22 | INFO | CONTEXT before read_task T-3058460 | open=1/1 | urls=['about:blank']
+23:42:22 | DEBUG | page[ @ about:blank] | logging attached
+23:42:22 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:42:22 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:42:22 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058460 (from about:blank)
+23:42:22 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058460
+23:42:23 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058460 → https://seosprint.net/read-task/3058460
+23:42:23 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058460
+23:42:23 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:42:23 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:42:24 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058460
+23:42:25 | INFO | READ TASK T-3058460 | url=https://seosprint.net/read-task/3058460 | desc_len=883
+23:42:35 | WARNING | TAKE TASK T-3058460 | start controls wait timeout
+23:42:35 | INFO | page[Задание @ https://seosprint.net/read-task/3058460] | CLICK Начать выполнение T-3058460 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://link24.store/ref1975435_ikh' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058460
+23:42:38 | INFO | page[Задание @ https://seosprint.net/read-task/3058460] | CLICK Начать выполнение T-3058460 done | after=https://seosprint.net/read-task/3058460
+23:42:38 | INFO | TAKE TASK T-3058460 | success, report form visible
+23:42:38 | INFO | CLOSE EXTRA T-3058460 | keep=https://seosprint.net/read-task/3058460 pages_before=3
+23:42:38 | INFO | PAGE CLOSE [close_extra T-3058460] | https://teerbyte.com/
+23:42:38 | INFO | CONTEXT after close (close_extra T-3058460) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058460']
+23:42:38 | INFO | CONTEXT after close_extra T-3058460 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058460']
+23:42:39 | INFO | PREPARE REPORT T-3058460 | url=https://seosprint.net/read-task/3058460
+23:42:39 | INFO | SUBMIT T-3058460 | start | report_len=14 screenshots=1 url=https://seosprint.net/read-task/3058460
+23:42:40 | INFO | SUBMIT T-3058460 | uploaded 0 screenshots
+23:42:40 | INFO | page[Задание @ https://seosprint.net/read-task/3058460] | FORM submit attempt formSubmitExt/formSubmit
+23:42:40 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058460
+23:42:41 | INFO | SUBMIT T-3058460 | result success=True msg=Отчёт отправлен
+23:42:41 | INFO | === TASK T-3058460 END | taken=True executed=True submitted=True ===
+23:42:41 | INFO | PAGE CLOSE [finally T-3058460] | https://seosprint.net/read-task/3058460
+23:42:41 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:42:41 | INFO | CONTEXT after close (finally T-3058460) | open=1/1 | urls=['about:blank']
+23:42:41 | INFO | === TASK T-3011707 START ===
+23:42:41 | INFO | READ TASK T-3011707 | opening /read-task/3011707
+23:42:41 | INFO | CONTEXT before read_task T-3011707 | open=1/1 | urls=['about:blank']
+23:42:41 | DEBUG | page[ @ about:blank] | logging attached
+23:42:41 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:42:41 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:42:41 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3011707 (from about:blank)
+23:42:41 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3011707
+23:42:42 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3011707 → https://seosprint.net/read-task/3011707
+23:42:42 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3011707
+23:42:42 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:42:42 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:42:42 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3011707
+23:42:44 | INFO | READ TASK T-3011707 | url=https://seosprint.net/read-task/3011707 | desc_len=276
+23:42:47 | DEBUG | page[ @ about:blank] | logging attached
+23:42:47 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:42:47 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3011707', 'about:blank']
+23:43:06 | INFO | PAGE CLOSE [finally T-3011707] | about:blank
+23:43:06 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:43:06 | INFO | CONTEXT after close (finally T-3011707) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3011707']
+23:43:06 | INFO | PAGE CLOSE [finally T-3011707] | https://seosprint.net/read-task/3011707
+23:43:06 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:43:06 | INFO | CONTEXT after close (finally T-3011707) | open=1/1 | urls=['about:blank']
+23:43:06 | INFO | === TASK T-3002868 START ===
+23:43:06 | INFO | READ TASK T-3002868 | opening /read-task/3002868
+23:43:06 | INFO | CONTEXT before read_task T-3002868 | open=1/1 | urls=['about:blank']
+23:43:06 | DEBUG | page[ @ about:blank] | logging attached
+23:43:06 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:43:06 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:43:06 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3002868 (from about:blank)
+23:43:06 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3002868
+23:43:07 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3002868 → https://seosprint.net/read-task/3002868
+23:43:07 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3002868
+23:43:07 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:43:07 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:43:07 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3002868
+23:43:09 | INFO | READ TASK T-3002868 | url=https://seosprint.net/read-task/3002868 | desc_len=831
+23:43:14 | DEBUG | page[ @ about:blank] | logging attached
+23:43:14 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:43:14 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3002868', 'about:blank']
+23:44:01 | INFO | PAGE CLOSE [finally T-3002868] | about:blank
+23:44:01 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:01 | INFO | CONTEXT after close (finally T-3002868) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3002868']
+23:44:01 | INFO | PAGE CLOSE [finally T-3002868] | https://seosprint.net/read-task/3002868
+23:44:01 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:01 | INFO | CONTEXT after close (finally T-3002868) | open=1/1 | urls=['about:blank']
+23:44:01 | INFO | === TASK T-3058479 START ===
+23:44:01 | INFO | READ TASK T-3058479 | opening /read-task/3058479
+23:44:01 | INFO | CONTEXT before read_task T-3058479 | open=1/1 | urls=['about:blank']
+23:44:01 | DEBUG | page[ @ about:blank] | logging attached
+23:44:01 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:01 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:01 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058479 (from about:blank)
+23:44:01 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058479
+23:44:02 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058479 → https://seosprint.net/read-task/3058479
+23:44:02 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058479
+23:44:02 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:44:02 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:44:03 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058479
+23:44:04 | INFO | READ TASK T-3058479 | url=https://seosprint.net/read-task/3058479 | desc_len=78
+23:44:07 | DEBUG | page[ @ about:blank] | logging attached
+23:44:07 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:07 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058479', 'about:blank']
+23:44:16 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058479
+23:44:16 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:16 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:16 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:44:16 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:16 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:44:16 | INFO | TAKE TASK T-3058479 | start
+23:44:16 | INFO | READ TASK T-3058479 | opening /read-task/3058479
+23:44:16 | INFO | CONTEXT before read_task T-3058479 | open=1/1 | urls=['about:blank']
+23:44:16 | DEBUG | page[ @ about:blank] | logging attached
+23:44:16 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:16 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:16 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058479 (from about:blank)
+23:44:16 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058479
+23:44:17 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058479 → https://seosprint.net/read-task/3058479
+23:44:17 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058479
+23:44:17 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:44:17 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:44:17 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058479
+23:44:19 | INFO | READ TASK T-3058479 | url=https://seosprint.net/read-task/3058479 | desc_len=78
+23:44:29 | WARNING | TAKE TASK T-3058479 | start controls wait timeout
+23:44:29 | INFO | page[Задание @ https://seosprint.net/read-task/3058479] | CLICK Начать выполнение T-3058479 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://t.me/TOMS_FARM_CODES' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058479
+23:44:32 | INFO | page[Задание @ https://seosprint.net/read-task/3058479] | CLICK Начать выполнение T-3058479 done | after=https://seosprint.net/read-task/3058479
+23:44:32 | INFO | TAKE TASK T-3058479 | success, report form visible
+23:44:32 | INFO | CLOSE EXTRA T-3058479 | keep=https://seosprint.net/read-task/3058479 pages_before=3
+23:44:32 | INFO | PAGE CLOSE [close_extra T-3058479] | https://t.me/TOMS_FARM_CODES
+23:44:32 | INFO | CONTEXT after close (close_extra T-3058479) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058479']
+23:44:32 | INFO | CONTEXT after close_extra T-3058479 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058479']
+23:44:32 | INFO | PREPARE REPORT T-3058479 | url=https://seosprint.net/read-task/3058479
+23:44:32 | INFO | SUBMIT T-3058479 | start | report_len=58 screenshots=1 url=https://seosprint.net/read-task/3058479
+23:44:34 | INFO | SUBMIT T-3058479 | uploaded 0 screenshots
+23:44:34 | INFO | page[Задание @ https://seosprint.net/read-task/3058479] | FORM submit attempt formSubmitExt/formSubmit
+23:44:34 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058479
+23:44:35 | INFO | SUBMIT T-3058479 | result success=True msg=Отчёт отправлен
+23:44:35 | INFO | === TASK T-3058479 END | taken=True executed=True submitted=True ===
+23:44:35 | INFO | PAGE CLOSE [finally T-3058479] | https://seosprint.net/read-task/3058479
+23:44:35 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:35 | INFO | CONTEXT after close (finally T-3058479) | open=1/1 | urls=['about:blank']
+23:44:35 | INFO | === TASK T-3058166 START ===
+23:44:35 | INFO | READ TASK T-3058166 | opening /read-task/3058166
+23:44:35 | INFO | CONTEXT before read_task T-3058166 | open=1/1 | urls=['about:blank']
+23:44:35 | DEBUG | page[ @ about:blank] | logging attached
+23:44:35 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:35 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:35 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058166 (from about:blank)
+23:44:35 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058166
+23:44:36 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058166 → https://seosprint.net/read-task/3058166
+23:44:36 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058166
+23:44:36 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:44:36 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:44:36 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058166
+23:44:38 | INFO | READ TASK T-3058166 | url=https://seosprint.net/read-task/3058166 | desc_len=109
+23:44:41 | DEBUG | page[ @ about:blank] | logging attached
+23:44:41 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:41 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058166', 'about:blank']
+23:44:48 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058166
+23:44:48 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:48 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:48 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:44:48 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:44:49 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:44:49 | INFO | TAKE TASK T-3058166 | start
+23:44:49 | INFO | READ TASK T-3058166 | opening /read-task/3058166
+23:44:49 | INFO | CONTEXT before read_task T-3058166 | open=1/1 | urls=['about:blank']
+23:44:49 | DEBUG | page[ @ about:blank] | logging attached
+23:44:49 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:44:49 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:44:49 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058166 (from about:blank)
+23:44:49 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058166
+23:44:49 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058166 → https://seosprint.net/read-task/3058166
+23:44:49 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058166
+23:44:49 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:44:49 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:44:50 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058166
+23:44:51 | INFO | READ TASK T-3058166 | url=https://seosprint.net/read-task/3058166 | desc_len=109
+23:45:01 | WARNING | TAKE TASK T-3058166 | start controls wait timeout
+23:45:01 | INFO | page[Задание @ https://seosprint.net/read-task/3058166] | CLICK Начать выполнение T-3058166 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://long-voyage.com/?i=1735404' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058166
+23:45:04 | INFO | page[Задание @ https://seosprint.net/read-task/3058166] | CLICK Начать выполнение T-3058166 done | after=https://seosprint.net/read-task/3058166
+23:45:04 | INFO | TAKE TASK T-3058166 | success, report form visible
+23:45:04 | INFO | CLOSE EXTRA T-3058166 | keep=https://seosprint.net/read-task/3058166 pages_before=3
+23:45:04 | INFO | PAGE CLOSE [close_extra T-3058166] | https://hotskins27.ai/?refredirect=1735404
+23:45:05 | INFO | CONTEXT after close (close_extra T-3058166) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058166']
+23:45:05 | INFO | CONTEXT after close_extra T-3058166 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058166']
+23:45:05 | INFO | PREPARE REPORT T-3058166 | url=https://seosprint.net/read-task/3058166
+23:45:05 | INFO | SUBMIT T-3058166 | start | report_len=51 screenshots=1 url=https://seosprint.net/read-task/3058166
+23:45:06 | INFO | SUBMIT T-3058166 | uploaded 0 screenshots
+23:45:06 | INFO | page[Задание @ https://seosprint.net/read-task/3058166] | FORM submit attempt formSubmitExt/formSubmit
+23:45:06 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058166
+23:45:07 | INFO | SUBMIT T-3058166 | result success=True msg=Отчёт отправлен
+23:45:07 | INFO | === TASK T-3058166 END | taken=True executed=True submitted=True ===
+23:45:07 | INFO | PAGE CLOSE [finally T-3058166] | https://seosprint.net/read-task/3058166
+23:45:07 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:07 | INFO | CONTEXT after close (finally T-3058166) | open=1/1 | urls=['about:blank']
+23:45:07 | INFO | === TASK T-3057776 START ===
+23:45:07 | INFO | READ TASK T-3057776 | opening /read-task/3057776
+23:45:07 | INFO | CONTEXT before read_task T-3057776 | open=1/1 | urls=['about:blank']
+23:45:07 | DEBUG | page[ @ about:blank] | logging attached
+23:45:07 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:07 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:07 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3057776 (from about:blank)
+23:45:07 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3057776
+23:45:08 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3057776 → https://seosprint.net/read-task/3057776
+23:45:08 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3057776
+23:45:08 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:45:08 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:45:09 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3057776
+23:45:10 | INFO | READ TASK T-3057776 | url=https://seosprint.net/read-task/3057776 | desc_len=415
+23:45:15 | DEBUG | page[ @ about:blank] | logging attached
+23:45:15 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:15 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3057776', 'about:blank']
+23:45:15 | DEBUG | visit-1 | logging attached
+23:45:15 | INFO | VISIT [1/1] target=https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:15 | INFO | page[ @ about:blank] | GOTO start: https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz (from about:blank)
+23:45:15 | DEBUG | visit-1 | REQUEST nav GET https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:15 | INFO | visit-1 | RESPONSE nav 200 https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz → https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:15 | INFO | visit-1 | NAVIGATED → https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:17 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:17 | INFO | visit-1 | NAVIGATED → https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:20 | INFO | VISIT [1/1] landed=https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:21 | INFO | VISIT close work tab | https://play.google.com/store/apps/details?id=com.chancegolf.explorer&hl=en-nz&gl=nz
+23:45:21 | INFO | visit-1 | PAGE CLOSED
+23:45:21 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3057776
+23:45:21 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:21 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:21 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:45:21 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:21 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:45:21 | INFO | TAKE TASK T-3057776 | start
+23:45:21 | INFO | READ TASK T-3057776 | opening /read-task/3057776
+23:45:21 | INFO | CONTEXT before read_task T-3057776 | open=1/1 | urls=['about:blank']
+23:45:21 | DEBUG | page[ @ about:blank] | logging attached
+23:45:21 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:21 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:21 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3057776 (from about:blank)
+23:45:21 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3057776
+23:45:22 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3057776 → https://seosprint.net/read-task/3057776
+23:45:22 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3057776
+23:45:22 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:45:22 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:45:22 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3057776
+23:45:24 | INFO | READ TASK T-3057776 | url=https://seosprint.net/read-task/3057776 | desc_len=415
+23:45:34 | WARNING | TAKE TASK T-3057776 | start controls wait timeout
+23:45:34 | INFO | page[Задание @ https://seosprint.net/read-task/3057776] | FORM formSubmit #task-use
+23:45:36 | INFO | page[Задание @ https://seosprint.net/read-task/3057776] | CLICK formSubmit T-3057776 done | after=https://seosprint.net/read-task/3057776
+23:45:36 | INFO | TAKE TASK T-3057776 | success, report form visible
+23:45:36 | INFO | CLOSE EXTRA T-3057776 | keep=https://seosprint.net/read-task/3057776 pages_before=2
+23:45:36 | INFO | CONTEXT after close_extra T-3057776 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3057776']
+23:45:37 | INFO | PREPARE REPORT T-3057776 | url=https://seosprint.net/read-task/3057776
+23:45:37 | INFO | SUBMIT T-3057776 | start | report_len=29 screenshots=1 url=https://seosprint.net/read-task/3057776
+23:45:38 | INFO | SUBMIT T-3057776 | uploaded 0 screenshots
+23:45:38 | INFO | page[Задание @ https://seosprint.net/read-task/3057776] | FORM submit attempt formSubmitExt/formSubmit
+23:45:38 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3057776
+23:45:39 | INFO | SUBMIT T-3057776 | result success=True msg=Отчёт отправлен
+23:45:39 | INFO | === TASK T-3057776 END | taken=True executed=True submitted=True ===
+23:45:39 | INFO | PAGE CLOSE [finally T-3057776] | https://seosprint.net/read-task/3057776
+23:45:39 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:39 | INFO | CONTEXT after close (finally T-3057776) | open=1/1 | urls=['about:blank']
+23:45:39 | INFO | === TASK T-3058687 START ===
+23:45:39 | INFO | READ TASK T-3058687 | opening /read-task/3058687
+23:45:39 | INFO | CONTEXT before read_task T-3058687 | open=1/1 | urls=['about:blank']
+23:45:39 | DEBUG | page[ @ about:blank] | logging attached
+23:45:39 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:39 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:39 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058687 (from about:blank)
+23:45:39 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058687
+23:45:40 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058687 → https://seosprint.net/read-task/3058687
+23:45:40 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058687
+23:45:40 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:45:40 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:45:40 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058687
+23:45:42 | INFO | READ TASK T-3058687 | url=https://seosprint.net/read-task/3058687 | desc_len=100
+23:45:47 | DEBUG | page[ @ about:blank] | logging attached
+23:45:47 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:47 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058687', 'about:blank']
+23:45:55 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058687
+23:45:55 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:55 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:55 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:45:55 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:45:55 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:45:55 | INFO | TAKE TASK T-3058687 | start
+23:45:55 | INFO | READ TASK T-3058687 | opening /read-task/3058687
+23:45:55 | INFO | CONTEXT before read_task T-3058687 | open=1/1 | urls=['about:blank']
+23:45:55 | DEBUG | page[ @ about:blank] | logging attached
+23:45:55 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:45:55 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:45:55 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058687 (from about:blank)
+23:45:55 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058687
+23:45:56 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058687 → https://seosprint.net/read-task/3058687
+23:45:56 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058687
+23:45:56 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:45:56 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:45:56 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058687
+23:45:58 | INFO | READ TASK T-3058687 | url=https://seosprint.net/read-task/3058687 | desc_len=100
+23:46:08 | WARNING | TAKE TASK T-3058687 | start controls wait timeout
+23:46:08 | INFO | page[Задание @ https://seosprint.net/read-task/3058687] | CLICK Начать выполнение T-3058687 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://t.me/ainovum_bot?start=ref_1770779036' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058687
+23:46:11 | INFO | page[Задание @ https://seosprint.net/read-task/3058687] | CLICK Начать выполнение T-3058687 done | after=https://seosprint.net/read-task/3058687
+23:46:11 | INFO | TAKE TASK T-3058687 | success, report form visible
+23:46:11 | INFO | CLOSE EXTRA T-3058687 | keep=https://seosprint.net/read-task/3058687 pages_before=3
+23:46:11 | INFO | PAGE CLOSE [close_extra T-3058687] | https://t.me/ainovum_bot?start=ref_1770779036
+23:46:11 | INFO | CONTEXT after close (close_extra T-3058687) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058687']
+23:46:11 | INFO | CONTEXT after close_extra T-3058687 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058687']
+23:46:11 | INFO | PREPARE REPORT T-3058687 | url=https://seosprint.net/read-task/3058687
+23:46:11 | INFO | SUBMIT T-3058687 | start | report_len=41 screenshots=1 url=https://seosprint.net/read-task/3058687
+23:46:13 | INFO | SUBMIT T-3058687 | uploaded 0 screenshots
+23:46:13 | INFO | page[Задание @ https://seosprint.net/read-task/3058687] | FORM submit attempt formSubmitExt/formSubmit
+23:46:13 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058687
+23:46:14 | INFO | SUBMIT T-3058687 | result success=True msg=Отчёт отправлен
+23:46:14 | INFO | === TASK T-3058687 END | taken=True executed=True submitted=True ===
+23:46:14 | INFO | PAGE CLOSE [finally T-3058687] | https://seosprint.net/read-task/3058687
+23:46:14 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:46:14 | INFO | CONTEXT after close (finally T-3058687) | open=1/1 | urls=['about:blank']
+23:46:14 | INFO | === TASK T-3058533 START ===
+23:46:14 | INFO | READ TASK T-3058533 | opening /read-task/3058533
+23:46:14 | INFO | CONTEXT before read_task T-3058533 | open=1/1 | urls=['about:blank']
+23:46:14 | DEBUG | page[ @ about:blank] | logging attached
+23:46:14 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:46:14 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:46:14 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058533 (from about:blank)
+23:46:14 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058533
+23:46:14 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058533 → https://seosprint.net/read-task/3058533
+23:46:14 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058533
+23:46:15 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:46:15 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:46:15 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058533
+23:46:17 | INFO | READ TASK T-3058533 | url=https://seosprint.net/read-task/3058533 | desc_len=98
+23:46:20 | DEBUG | page[ @ about:blank] | logging attached
+23:46:20 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:46:20 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3058533', 'about:blank']
+23:46:20 | DEBUG | visit-1 | logging attached
+23:46:20 | INFO | VISIT [1/1] target=https://t.me/lipmuz
+23:46:20 | INFO | page[ @ about:blank] | GOTO start: https://t.me/lipmuz (from about:blank)
+23:46:20 | DEBUG | visit-1 | REQUEST nav GET https://t.me/lipmuz
+23:46:20 | INFO | visit-1 | RESPONSE nav 200 https://t.me/lipmuz → https://t.me/lipmuz
+23:46:20 | INFO | visit-1 | NAVIGATED → https://t.me/lipmuz
+23:46:20 | DEBUG | visit-1 | REQUEST nav GET tg://resolve?domain=lipmuz
+23:46:20 | DEBUG | visit-1 | console.error: Not allowed to launch 'tg://resolve?domain=lipmuz' because a user gesture is required.
+23:46:21 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://t.me/lipmuz
+23:46:24 | INFO | VISIT [1/1] landed=https://t.me/lipmuz
+23:46:24 | INFO | VISIT close work tab | https://t.me/lipmuz
+23:46:24 | INFO | visit-1 | PAGE CLOSED
+23:46:24 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3058533
+23:46:24 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:46:25 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:46:25 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:46:25 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:46:25 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:46:25 | INFO | TAKE TASK T-3058533 | start
+23:46:25 | INFO | READ TASK T-3058533 | opening /read-task/3058533
+23:46:25 | INFO | CONTEXT before read_task T-3058533 | open=1/1 | urls=['about:blank']
+23:46:25 | DEBUG | page[ @ about:blank] | logging attached
+23:46:25 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:46:25 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:46:25 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3058533 (from about:blank)
+23:46:25 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3058533
+23:46:25 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3058533 → https://seosprint.net/read-task/3058533
+23:46:25 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3058533
+23:46:26 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:46:26 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:46:26 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3058533
+23:46:27 | INFO | READ TASK T-3058533 | url=https://seosprint.net/read-task/3058533 | desc_len=98
+23:46:37 | WARNING | TAKE TASK T-3058533 | start controls wait timeout
+23:46:37 | INFO | page[Задание @ https://seosprint.net/read-task/3058533] | CLICK Начать выполнение T-3058533 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://t.me/lipmuz' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3058533
+23:46:40 | INFO | page[Задание @ https://seosprint.net/read-task/3058533] | CLICK Начать выполнение T-3058533 done | after=https://seosprint.net/read-task/3058533
+23:46:41 | INFO | TAKE TASK T-3058533 | success, report form visible
+23:46:41 | INFO | CLOSE EXTRA T-3058533 | keep=https://seosprint.net/read-task/3058533 pages_before=3
+23:46:41 | INFO | PAGE CLOSE [close_extra T-3058533] | https://t.me/lipmuz
+23:46:41 | INFO | CONTEXT after close (close_extra T-3058533) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058533']
+23:46:41 | INFO | CONTEXT after close_extra T-3058533 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3058533']
+23:46:41 | INFO | PREPARE REPORT T-3058533 | url=https://seosprint.net/read-task/3058533
+23:46:41 | INFO | SUBMIT T-3058533 | start | report_len=29 screenshots=1 url=https://seosprint.net/read-task/3058533
+23:46:42 | INFO | SUBMIT T-3058533 | uploaded 0 screenshots
+23:46:42 | INFO | page[Задание @ https://seosprint.net/read-task/3058533] | FORM submit attempt formSubmitExt/formSubmit
+23:46:42 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3058533
+23:46:43 | INFO | SUBMIT T-3058533 | result success=True msg=Отчёт отправлен
+23:46:43 | INFO | === TASK T-3058533 END | taken=True executed=True submitted=True ===
+23:46:43 | INFO | PAGE CLOSE [finally T-3058533] | https://seosprint.net/read-task/3058533
+23:46:43 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:46:43 | INFO | CONTEXT after close (finally T-3058533) | open=1/1 | urls=['about:blank']
+23:46:43 | INFO | === TASK T-3054066 START ===
+23:46:43 | INFO | READ TASK T-3054066 | opening /read-task/3054066
+23:46:43 | INFO | CONTEXT before read_task T-3054066 | open=1/1 | urls=['about:blank']
+23:46:43 | DEBUG | page[ @ about:blank] | logging attached
+23:46:43 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:46:43 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:46:43 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3054066 (from about:blank)
+23:46:43 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3054066
+23:46:44 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3054066 → https://seosprint.net/read-task/3054066
+23:46:44 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3054066
+23:46:44 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:46:44 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:46:45 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3054066
+23:46:46 | INFO | READ TASK T-3054066 | url=https://seosprint.net/read-task/3054066 | desc_len=185
+23:46:50 | DEBUG | page[ @ about:blank] | logging attached
+23:46:50 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:46:50 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/3054066', 'about:blank']
+23:46:50 | DEBUG | visit-1 | logging attached
+23:46:50 | INFO | VISIT [1/1] target=https://goo.su/OHy6ic
+23:46:50 | INFO | page[ @ about:blank] | GOTO start: https://goo.su/OHy6ic (from about:blank)
+23:46:50 | DEBUG | visit-1 | REQUEST nav GET https://goo.su/OHy6ic
+23:46:50 | INFO | visit-1 | RESPONSE nav 302 https://goo.su/OHy6ic → https://goo.su/OHy6ic
+23:46:50 | INFO | visit-1 | REDIRECT → https://t.me/dodepovichev
+23:46:50 | DEBUG | visit-1 | REQUEST nav GET https://t.me/dodepovichev
+23:46:51 | INFO | visit-1 | RESPONSE nav 200 https://t.me/dodepovichev → https://t.me/dodepovichev
+23:46:51 | INFO | visit-1 | NAVIGATED → https://t.me/dodepovichev
+23:46:51 | DEBUG | visit-1 | REQUEST nav GET tg://resolve?domain=dodepovichev
+23:46:51 | DEBUG | visit-1 | console.error: Not allowed to launch 'tg://resolve?domain=dodepovichev' because a user gesture is required.
+23:46:51 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://t.me/dodepovichev
+23:46:51 | INFO | page[ @ about:blank] | GOTO redirect chain: about:blank → https://t.me/dodepovichev
+23:46:54 | INFO | VISIT [1/1] landed=https://t.me/dodepovichev
+23:46:55 | INFO | VISIT close work tab | https://t.me/dodepovichev
+23:46:55 | INFO | visit-1 | PAGE CLOSED
+23:47:08 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/3054066
+23:47:08 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:47:08 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:47:08 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:47:08 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:47:08 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:47:08 | INFO | TAKE TASK T-3054066 | start
+23:47:08 | INFO | READ TASK T-3054066 | opening /read-task/3054066
+23:47:08 | INFO | CONTEXT before read_task T-3054066 | open=1/1 | urls=['about:blank']
+23:47:08 | DEBUG | page[ @ about:blank] | logging attached
+23:47:08 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:47:08 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:47:08 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/3054066 (from about:blank)
+23:47:08 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/3054066
+23:47:09 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/3054066 → https://seosprint.net/read-task/3054066
+23:47:09 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/3054066
+23:47:09 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:47:09 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:47:10 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/3054066
+23:47:11 | INFO | READ TASK T-3054066 | url=https://seosprint.net/read-task/3054066 | desc_len=185
+23:47:21 | WARNING | TAKE TASK T-3054066 | start controls wait timeout
+23:47:21 | INFO | page[Задание @ https://seosprint.net/read-task/3054066] | CLICK Начать выполнение T-3054066 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://h1.nu/1xCMt' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/3054066
+23:47:24 | INFO | page[Задание @ https://seosprint.net/read-task/3054066] | CLICK Начать выполнение T-3054066 done | after=https://seosprint.net/read-task/3054066
+23:47:24 | INFO | TAKE TASK T-3054066 | success, report form visible
+23:47:24 | INFO | CLOSE EXTRA T-3054066 | keep=https://seosprint.net/read-task/3054066 pages_before=3
+23:47:24 | INFO | PAGE CLOSE [close_extra T-3054066] | https://antiphishing.biz/Check_Shortest.Link/1xCMt?l=ru
+23:47:24 | INFO | CONTEXT after close (close_extra T-3054066) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3054066']
+23:47:24 | INFO | CONTEXT after close_extra T-3054066 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/3054066']
+23:47:25 | INFO | PREPARE REPORT T-3054066 | url=https://seosprint.net/read-task/3054066
+23:47:25 | INFO | SUBMIT T-3054066 | start | report_len=72 screenshots=1 url=https://seosprint.net/read-task/3054066
+23:47:26 | INFO | SUBMIT T-3054066 | uploaded 0 screenshots
+23:47:26 | INFO | page[Задание @ https://seosprint.net/read-task/3054066] | FORM submit attempt formSubmitExt/formSubmit
+23:47:26 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/3054066
+23:47:27 | INFO | SUBMIT T-3054066 | result success=True msg=Отчёт отправлен
+23:47:27 | INFO | === TASK T-3054066 END | taken=True executed=True submitted=True ===
+23:47:27 | INFO | PAGE CLOSE [finally T-3054066] | https://seosprint.net/read-task/3054066
+23:47:27 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:47:27 | INFO | CONTEXT after close (finally T-3054066) | open=1/1 | urls=['about:blank']
+23:47:27 | INFO | === TASK T-2942075 START ===
+23:47:27 | INFO | READ TASK T-2942075 | opening /read-task/2942075
+23:47:27 | INFO | CONTEXT before read_task T-2942075 | open=1/1 | urls=['about:blank']
+23:47:27 | DEBUG | page[ @ about:blank] | logging attached
+23:47:27 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:47:27 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:47:27 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/2942075 (from about:blank)
+23:47:27 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/2942075
+23:47:28 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/2942075 → https://seosprint.net/read-task/2942075
+23:47:28 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/2942075
+23:47:28 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:47:28 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:47:28 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/2942075
+23:47:30 | INFO | READ TASK T-2942075 | url=https://seosprint.net/read-task/2942075 | desc_len=99
+23:47:34 | DEBUG | page[ @ about:blank] | logging attached
+23:47:34 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:47:34 | INFO | CONTEXT after new_page | open=3/3 | urls=['about:blank', 'https://seosprint.net/read-task/2942075', 'about:blank']
+23:47:52 | INFO | PAGE CLOSE [client.close_page] | https://seosprint.net/read-task/2942075
+23:47:52 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:47:52 | INFO | CONTEXT after close (client.close_page) | open=2/2 | urls=['about:blank', 'about:blank']
+23:47:52 | INFO | PAGE CLOSE [client.close_page] | about:blank
+23:47:52 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:47:52 | INFO | CONTEXT after close (client.close_page) | open=1/1 | urls=['about:blank']
+23:47:52 | INFO | TAKE TASK T-2942075 | start
+23:47:52 | INFO | READ TASK T-2942075 | opening /read-task/2942075
+23:47:52 | INFO | CONTEXT before read_task T-2942075 | open=1/1 | urls=['about:blank']
+23:47:52 | DEBUG | page[ @ about:blank] | logging attached
+23:47:52 | INFO | PAGE OPEN [new_page] | page[ @ about:blank]
+23:47:52 | INFO | CONTEXT after new_page | open=2/2 | urls=['about:blank', 'about:blank']
+23:47:52 | INFO | page[ @ about:blank] | GOTO start: https://seosprint.net/read-task/2942075 (from about:blank)
+23:47:52 | DEBUG | page[ @ about:blank] | REQUEST nav GET https://seosprint.net/read-task/2942075
+23:47:52 | INFO | page[ @ about:blank] | RESPONSE nav 200 https://seosprint.net/read-task/2942075 → https://seosprint.net/read-task/2942075
+23:47:52 | INFO | page[ @ about:blank] | NAVIGATED → https://seosprint.net/read-task/2942075
+23:47:53 | DEBUG | page[ @ about:blank] | console.error: Failed to load resource: the server responded with a status of 404 ()
+23:47:53 | DEBUG | page[ @ about:blank] | console.warning: Error while trying to use the following icon from the Manifest: https://seosprint.net/android-chrome-192x192.png (Download error or resource isn't a valid image)
+23:47:53 | INFO | page[ @ about:blank] | GOTO done: status=200 final=https://seosprint.net/read-task/2942075
+23:47:55 | INFO | READ TASK T-2942075 | url=https://seosprint.net/read-task/2942075 | desc_len=99
+23:48:05 | WARNING | TAKE TASK T-2942075 | start controls wait timeout
+23:48:05 | INFO | page[Задание @ https://seosprint.net/read-task/2942075] | CLICK Начать выполнение T-2942075 | selector='.btn-dock a.btn-ok' text='НАЧАТЬ ВЫПОЛНЕНИЕ' href='https://profitcentr.com/?r=mexr88' onclick="formSubmit('#task-use')" | before=https://seosprint.net/read-task/2942075
+23:48:08 | INFO | page[Задание @ https://seosprint.net/read-task/2942075] | CLICK Начать выполнение T-2942075 done | after=https://seosprint.net/read-task/2942075
+23:48:08 | INFO | TAKE TASK T-2942075 | success, report form visible
+23:48:08 | INFO | CLOSE EXTRA T-2942075 | keep=https://seosprint.net/read-task/2942075 pages_before=3
+23:48:08 | INFO | PAGE CLOSE [close_extra T-2942075] | https://profitcentr.com/?r=mexr88
+23:48:08 | INFO | CONTEXT after close (close_extra T-2942075) | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/2942075']
+23:48:08 | INFO | CONTEXT after close_extra T-2942075 | open=2/2 | urls=['about:blank', 'https://seosprint.net/read-task/2942075']
+23:48:08 | INFO | PREPARE REPORT T-2942075 | url=https://seosprint.net/read-task/2942075
+23:48:08 | INFO | SUBMIT T-2942075 | start | report_len=6 screenshots=1 url=https://seosprint.net/read-task/2942075
+23:48:09 | INFO | SUBMIT T-2942075 | uploaded 0 screenshots
+23:48:10 | INFO | page[Задание @ https://seosprint.net/read-task/2942075] | FORM submit attempt formSubmitExt/formSubmit
+23:48:10 | INFO | SUBMIT | via JS formSubmitExt | url=https://seosprint.net/read-task/2942075
+23:48:11 | INFO | SUBMIT T-2942075 | result success=True msg=Отчёт отправлен
+23:48:11 | INFO | === TASK T-2942075 END | taken=True executed=True submitted=True ===
+23:48:11 | INFO | PAGE CLOSE [finally T-2942075] | https://seosprint.net/read-task/2942075
+23:48:11 | INFO | page[ @ about:blank] | PAGE CLOSED
+23:48:11 | INFO | CONTEXT after close (finally T-2942075) | open=1/1 | urls=['about:blank']
+23:48:11 | INFO | BROWSER stop requested
+23:48:11 | DEBUG | COOKIES saved → C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\cookies.json (147)
+23:48:11 | INFO | keeper | PAGE CLOSED
+23:48:11 | INFO | BROWSER stopped

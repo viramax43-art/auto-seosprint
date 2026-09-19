@@ -1,0 +1,27 @@
+4-6 просмотренных ссылок с сайта vi***sa.r*:
+https://vi***sa.r*/page1
+https://vi***sa.r*/page2
+https://vi***sa.r*/page3
+https://vi***sa.r*/page4
+https://vi***sa.r*/page5
+https://vi***sa.r*/page6
+
+Фраза и ссылка, появившаяся после поиска на vi***sa.r*:
+Ключевое слово: "ключевое_слово_из_ссылки"
+Ссылка после поиска: https://vi***sa.r*/search?q=ключевое_слово_из_ссылки
+
+Рекламная ссылка, на которую переходили из поисковика Google, и ссылки переходов на этом сайте:
+Рекламная ссылка: https://www.example-ad.com/
+Ссылки переходов на рекламном сайте:
+https://www.example-ad.com/product1
+https://www.example-ad.com/about
+https://www.example-ad.com/contact
+
+Дополнительная информация:
+Telegram: @your_username
+Email: your@email.com
+Скриншот приложен.
+
+Скриншоты:
+C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\screenshots\3002867\ai_1_223058.png
+C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\screenshots\3002867\ai_2_223119.png

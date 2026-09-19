@@ -1,0 +1,13 @@
+2026/09/13-19:36:34.015 3be4 Reusing MANIFEST C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\browser_profile\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/13-19:36:34.015 3be4 Recovering log #6
+2026/09/13-19:36:34.016 3be4 Reusing old log C:\Users\armian\Desktop\Works\Freelance\auto_SEOsprint\data\browser_profile\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb/000006.log 
+2026/09/13-19:36:34.308 3be4 Level-0 table #10: started
+2026/09/13-19:36:34.313 3be4 Level-0 table #10: 16637 bytes OK
+2026/09/13-19:36:34.318 3be4 Delete type=0 #6
+2026/09/13-19:36:34.318 b41c Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\xc8\x05\x00u\x00s\x00e\x00r\x00s' @ 3979 : 1
+2026/09/13-19:36:34.318 b41c Compacting 1@0 + 1@1 files
+2026/09/13-19:36:34.324 b41c Generated table #11@0: 909 keys, 15962 bytes
+2026/09/13-19:36:34.324 b41c Compacted 1@0 + 1@1 files => 15962 bytes
+2026/09/13-19:36:34.328 b41c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/13-19:36:34.328 b41c Delete type=2 #10
+2026/09/13-19:36:34.328 b41c Manual compaction at level-0 from '\x00\x08\x00\x00\xc8\x05\x00u\x00s\x00e\x00r\x00s' @ 3979 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
